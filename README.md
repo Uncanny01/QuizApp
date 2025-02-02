@@ -39,7 +39,7 @@ A web-based quiz application with gamification features, built using React and T
 
 ## Video Walkthrough
 
-[Watch the video walkthrough](./media/videos/demo.mp4)
+[Watch the video walkthrough](./media/video/demo.mp4)
 
 ---
 
